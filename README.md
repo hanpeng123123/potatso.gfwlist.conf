@@ -1,8 +1,7 @@
-# potatso.conf
+# potatso.gfwlist.conf
 
-My Potatso rule sets.
+Potatso rule set generated from [gfwlist](https://github.com/gfwlist/gfwlist) using [s7lx/gfwlist2potatso](https://github.com/s7lx/gfwlist2potatso).
 
-## Credits
+Scan this QR code in Potatso to add the rule set:
 
- - [s7lx/gfwlist2potatso](https://github.com/s7lx/gfwlist2potatso)
-
+<img src="https://i.imgur.com/pEnjXot.png" width="192" height="192"/>
